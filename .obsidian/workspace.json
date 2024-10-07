@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MI/7. Other Supervised Learning Approaches.md",
+                "file": "MI/8. Clustering.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MI/7. Other Supervised Learning Approaches.md",
+                "file": "MI/8. Clustering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MI/7. Other Supervised Learning Approaches.md",
+                "file": "MI/8. Clustering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MI/7. Other Supervised Learning Approaches.md"
+                "file": "MI/8. Clustering.md"
               }
             }
           }
@@ -149,20 +149,21 @@
   },
   "active": "30ecf4c29fe8d8c1",
   "lastOpenFiles": [
+    "attachments/Pasted image 20241007111013.png",
+    "attachments/Pasted image 20241007110635.png",
+    "attachments/Pasted image 20241007105357.png",
+    "attachments/Pasted image 20241007104835.png",
+    "attachments/Pasted image 20241007104819.png",
+    "attachments/Pasted image 20241007104422.png",
+    "attachments/Pasted image 20241007104417.png",
+    "attachments/Pasted image 20241007102339.png",
+    "attachments/Pasted image 20241007102240.png",
+    "attachments/Pasted image 20241007101944.png",
+    "MI/7. Other Supervised Learning Approaches.md",
+    "MI/8. Clustering.md",
     "attachments/Pasted image 20240930114800.png",
-    "attachments/Pasted image 20240930114250.png",
-    "attachments/Pasted image 20240930113327.png",
-    "attachments/Pasted image 20240930113113.png",
-    "attachments/Pasted image 20240930111340.png",
-    "attachments/Pasted image 20240930111326.png",
-    "attachments/Pasted image 20240930110435.png",
-    "attachments/Pasted image 20240930110313.png",
-    "attachments/Pasted image 20240930104941.png",
-    "attachments/Pasted image 20240930104931.png",
     "MI/4. Inference in Bayesian Networks.md",
     "MI/1. Introduction.md",
-    "MI/7. Other Supervised Learning Approaches.md",
-    "attachments/Pasted image 20240930102558.png",
     "DBS/3. Relation, FD and Keys.md",
     "DBS",
     "MI/2. Constraint Satisfaction Problem CSP.md",
